@@ -1,0 +1,14 @@
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\bin\Debug\netcoreapp2.1\HealthApi.deps.json
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\bin\Debug\netcoreapp2.1\HealthApi.runtimeconfig.json
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\bin\Debug\netcoreapp2.1\HealthApi.runtimeconfig.dev.json
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\bin\Debug\netcoreapp2.1\HealthApi.dll
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\bin\Debug\netcoreapp2.1\HealthApi.pdb
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.csprojAssemblyReference.cache
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.csproj.CoreCompileInputs.cache
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.RazorAssemblyInfo.cache
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.RazorAssemblyInfo.cs
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.AssemblyInfoInputs.cache
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.AssemblyInfo.cs
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.RazorTargetAssemblyInfo.cache
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.dll
+C:\Users\Rabby\source\repos\HealthApi\HealthApi\obj\Debug\netcoreapp2.1\HealthApi.pdb

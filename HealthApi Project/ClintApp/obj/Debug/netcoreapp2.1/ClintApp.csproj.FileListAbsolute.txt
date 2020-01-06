@@ -1,0 +1,14 @@
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\bin\Debug\netcoreapp2.1\ClintApp.deps.json
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\bin\Debug\netcoreapp2.1\ClintApp.runtimeconfig.json
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\bin\Debug\netcoreapp2.1\ClintApp.runtimeconfig.dev.json
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\bin\Debug\netcoreapp2.1\ClintApp.dll
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\bin\Debug\netcoreapp2.1\ClintApp.pdb
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.csprojAssemblyReference.cache
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.csproj.CoreCompileInputs.cache
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.RazorAssemblyInfo.cache
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.RazorAssemblyInfo.cs
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.AssemblyInfoInputs.cache
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.AssemblyInfo.cs
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.RazorTargetAssemblyInfo.cache
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.dll
+C:\Users\Rabby\source\repos\HealthApi\ClintApp\obj\Debug\netcoreapp2.1\ClintApp.pdb
